@@ -4,5 +4,5 @@ Suitable for OS X's screen saver.
 ![Screenshot](screenshot.jpg "Screenshot")
 
 To make it available for your screen saver, run the following command in your terminal (after which you can select it as your screen saver):
-```curl -o /Users/$(whoami)/Library/Screen\ Savers/themgradients.qtz https://github.com/rikemonni/themgradients/blob/master/themgradients.qtz\?raw\=true```
+```curl -o /Users/$(whoami)/Library/Screen\ Savers/themgradients.qtz https://raw.githubusercontent.com/rikemonni/themgradients/master/themgradients.qtz```
 
